@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @aethefurry
-- 👀 I’m interested in programming, games, and learning new Things!
-- 🌱 I’m currently learning Godot, HTML CSS JS
-- 💞️ I’m looking to collaborate on idk lol
-- 📫 How to reach me https://aethefurry.github.io/en/contact.html
+### Hi there 👋, my name is ae
 
-<!---
-aethefurry/aethefurry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: C# Unity, Python, Gamemaker Studio 2, HTML, CSS
+
+- 🌱 I’m currently learning JS and Godot 
+- 📫 How to reach me: https://aethefurry.github.io/en/contact.html 
+- 😄 Pronouns: any 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aethefurry&show_icons=true)  
+
