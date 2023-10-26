@@ -2,9 +2,8 @@
 
 Skills: C# Unity, Python, Gamemaker Studio 2, HTML, CSS
 
-- 🌱 I’m currently learning JS and Godot 
-- 📫 How to reach me: https://aethefurry.github.io/contact
-- 😄 Pronouns: any 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aethefurry&show_icons=true)  
-
+- I’m currently learning JS, c++, and getting fully setup with python
+- How to reach me: https://aethefurry.github.io/contact
+- Pronouns: any
+- Timezone: CST/Cental Time Zone
+- Languges: English (Native) German (A1)
