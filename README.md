@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is aidan
 
-Skills: C# Unity, Python, Gamemaker Studio 2, HTML, CSS
+Skills: C#/Unity, Python, HTML, CSS, Linux (Alpine, Arch, Debian, Ubuntu, Fedora)
 
-- I’m currently learning idk
-- How to reach me: https://aidanfarley86.github.io/contact
+- I’m currently learning: Rust
+- How to reach me: https://aethefurry.github.io/contact
 - Pronouns: any
 - Timezone: CST/Cental Time Zone
 - Languages: English (Native) German (A1)
