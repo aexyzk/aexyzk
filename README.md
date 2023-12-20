@@ -1,6 +1,5 @@
-- Skills: C#/Unity, Python, Flask, HTML, CSS, Linux (Alpine, Arch, Debian, Ubuntu, Fedora)
-- I’m currently learning: 
 - How to reach me: https://aexyzk.github.io/contact
 - Pronouns: any
 - Timezone: CST/Cental Time Zone
 - Languages: English (Native) German (A1)
+- More Info: https://aexyzk.github.io
