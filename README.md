@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- How to reach me: https://aexyzk.github.io/contact<br>- Pronouns: any<br>- Timezone: CST/Cental Time Zone<br>- Languages: English (Native) German (A1)<br>- More Info: https://aexyzk.github.io</p>
+<p align="left">- How to reach me: https://aexyzk.github.io<br>- Pronouns: any<br>- Timezone: CST/Cental Time Zone<br>- Languages: English (Native) German (A1)<br>- More Info: https://aexyzk.github.io</p>
 
 ###
 
